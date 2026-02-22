@@ -1,10 +1,10 @@
-# Critical Infrastructure Cyber Range Simulator
+# critical-infrastructure-cyber-range-simulator
 
-Simulate cyber incidents on critical infrastructure environments.
+## Detailed Description
 
 ## Vertical
 
-security
+## Problem Statement
 
 ## Production MVP Deliverables
 
